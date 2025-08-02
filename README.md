@@ -54,6 +54,11 @@ Power BI skill showcase for data analysts and BI developers
 # Conclusion:
 This dashboard reflects a comprehensive understanding of how to translate raw sales data into business insights through storytelling, visual clarity, and technical accuracy. It highlights how data analytics, business logic, and visualization skills can converge to solve real-world retail problems efficiently.
 
+# PROJECT
+- <a href=""> Dashboard File</a>
 
+# DATA SET
+- <a href="">Data Set</a>
 
-
+# DASHBOARD SCREENSHOT
+<img width="901" height="505" alt="dashboard screenshot" src="https://github.com/user-attachments/assets/03efb1c2-ab55-4b43-ac72-c28e97c2dce3" />
