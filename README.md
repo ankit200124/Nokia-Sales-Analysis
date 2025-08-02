@@ -1,6 +1,9 @@
 # Nokia-Sales-Analysis
 This project presents a dynamic Power BI dashboard designed to analyze mobile phone sales across India. The dashboard delivers deep insights into brand performance, payment behavior, customer satisfaction, and sales trends, enabling data-driven decision making.
 
+# Objective
+To create a Power BI dashboard that visualizes mobile sales performance across regions, models, and payment methods. The goal is to provide a clear analytical view of product demand, customer preferences, and transaction behavior to support data-driven sales decisions.
+
 # Key Metrics Visualized:
 Mobile sales trends over time (monthly & daily view)
 
@@ -50,6 +53,10 @@ Customer feedback interpretation for product teams
 Hands-on showcase for Power BI & analytics proficiency
 
 Power BI skill showcase for data analysts and BI developers
+
+# Outcome
+The dashboard enables business teams to monitor brand-wise performance, track sales trends, and understand regional demand. It transforms raw sales data into actionable insights through structured KPIs and intuitive visuals aligned with Nokia's brand identity.
+
 
 # Conclusion:
 This dashboard reflects a comprehensive understanding of how to translate raw sales data into business insights through storytelling, visual clarity, and technical accuracy. It highlights how data analytics, business logic, and visualization skills can converge to solve real-world retail problems efficiently.
